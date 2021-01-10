@@ -32,7 +32,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/raw.githubusercontent.com\/die3ungleichen\/2D-Welt-thueringen\/main\/garten\/gartenanlagen.json"
+                 "value":"\/garten\/gartenanlagen.json"
                 }],
          "type":"tilelayer",
          "visible":true,
