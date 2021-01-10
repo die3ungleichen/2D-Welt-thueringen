@@ -68,7 +68,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/www.nachfeierabend.de"
+                 "value":"https:\/\/gartenverein-nachfeierabend.de\/"
                 }],
          "type":"tilelayer",
          "visible":true,
