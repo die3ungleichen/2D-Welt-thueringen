@@ -1,8 +1,10 @@
 # 2D-Welt-thueringen
 ..  
-We use the game engine from workadventu.re  
-* Project website: (http://workadventu.re/)
-* How to create a map: (https://workadventu.re/create-map.html)
+
+We use the game engine from workadventu.re:  
+
+Project website: (http://workadventu.re/)  
+How to create a map: (https://workadventu.re/create-map.html)
 
 # Map Editor
 For creating the map we used Tiled. A nice little programm which you can download here: https://www.mapeditor.org/  
