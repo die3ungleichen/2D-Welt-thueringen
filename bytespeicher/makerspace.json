@@ -139,7 +139,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/maps\/erfas-spaces-north.json#start_bytespeicher}\n"
+                 "value":"..\/main.json#reentry-bytespeicher"
                 }],
          "type":"tilelayer",
          "visible":true,
