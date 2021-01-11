@@ -608,7 +608,7 @@
         {
          "columns":8,
          "firstgid":1429,
-         "image":"tilesets\/poke.png",
+         "image":"poke.png",
          "imageheight":20832,
          "imagewidth":256,
          "margin":0,
