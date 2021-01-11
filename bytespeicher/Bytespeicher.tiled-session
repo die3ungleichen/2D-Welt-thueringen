@@ -1,0 +1,65 @@
+{
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "Bytespeicher.json": {
+            "scale": 1.5781874999999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 496.13876678151365,
+                "y": 400.1425686111441
+            }
+        },
+        "Bytespeicher.json#bskonf": {
+            "scaleInDock": 1
+        },
+        "Bytespeicher.json#bskonffurn": {
+            "scaleInDock": 1
+        },
+        "Bytespeicher.json#bskonftop": {
+            "scaleInDock": 1
+        },
+        "Bytespeicher.json#chaos_zone_shared": {
+            "scaleInDock": 1
+        },
+        "Bytespeicher.json#housetileset": {
+            "scaleInDock": 1
+        },
+        "main.json": {
+            "scale": 2.3495535714285714,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 336.23408702261065,
+                "y": 256.0060801824055
+            }
+        },
+        "main.json#MS_TILES_ef": {
+            "scaleInDock": 1
+        },
+        "main.json#bskonf": {
+            "scaleInDock": 1
+        },
+        "main.json#bskonffurn": {
+            "scaleInDock": 1
+        },
+        "main.json#chaos_zone_shared": {
+            "scaleInDock": 1
+        },
+        "main.json#housetileset": {
+            "scaleInDock": 1
+        },
+        "main.json#stuff": {
+            "scaleInDock": 1
+        },
+        "main.json#worldExit": {
+            "scaleInDock": 1
+        }
+    },
+    "openFiles": [
+    ],
+    "project": "Bytespeicher.tiled-project",
+    "recentFiles": [
+    ]
+}
