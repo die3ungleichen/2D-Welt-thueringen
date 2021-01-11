@@ -14,5 +14,9 @@ We used the 1.4.3 version, since we had troubles exporting the right json-files 
 
 
 # Tilesets
-We used tilesets from here: https://pipoya.itch.io/pipoya-free-rpg-world-tileset-32x32-40x40-48x48  
-and here: https://pipoya.itch.io/pipoya-rpg-tileset-32x32
+We used tilesets from pipoya:  
+https://pipoya.itch.io/pipoya-free-rpg-world-tileset-32x32-40x40-48x48  
+https://pipoya.itch.io/pipoya-rpg-tileset-32x32  
+
+and from finalbossblues:  
+https://finalbossblues.itch.io/cloud-city-tileset
