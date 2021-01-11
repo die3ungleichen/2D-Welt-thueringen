@@ -20,7 +20,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json#entrance"
+                 "value":".\/bytespeicher\/Bytespeicher.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -56,7 +56,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json#entrance"
+                 "value":"..\/main.json#reentry-bytespeicher"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -295,7 +295,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"2020.10.30",
+ "tiledversion":"1.4.3",
  "tileheight":32,
  "tilesets":[
         {
