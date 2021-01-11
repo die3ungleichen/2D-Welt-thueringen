@@ -606,8 +606,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":8,
          "firstgid":1429,
-         "source":"tilesets\/poke.tsx"
+         "image":"tilesets\/poke.png",
+         "imageheight":20832,
+         "imagewidth":256,
+         "margin":0,
+         "name":"poke",
+         "spacing":0,
+         "tilecount":5208,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
