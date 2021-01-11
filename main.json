@@ -68,7 +68,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/bytespeicher\/bytespeicher.json"
+                 "value":".\/bytespeicher\/Bytespeicher.json"
                 }],
          "type":"tilelayer",
          "visible":true,
