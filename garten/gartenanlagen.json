@@ -50,7 +50,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/main.json#weisensee"
+                 "value":"..\/main.json#reentry-weisensee"
                 }],
          "type":"tilelayer",
          "visible":true,
