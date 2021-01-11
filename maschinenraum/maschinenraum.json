@@ -62,7 +62,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{..\/main.json#reentry-maschinenraum}"
+                 "value":"..\/main.json#reentry-maschinenraum"
                 }],
          "type":"tilelayer",
          "visible":true,
