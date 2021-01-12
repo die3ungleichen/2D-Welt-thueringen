@@ -176,7 +176,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":""
+                 "value":".\/sachsen\/sachsen.json"
                 }],
          "type":"tilelayer",
          "visible":true,
