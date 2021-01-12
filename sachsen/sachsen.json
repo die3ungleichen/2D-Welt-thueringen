@@ -390,7 +390,7 @@
         {
          "columns":5,
          "firstgid":1345,
-         "image":"../cloud_tileset\/bg_bluesky.png",
+         "image":"../bg_bluesky.png",
          "imageheight":176,
          "imagewidth":176,
          "margin":0,
@@ -413,7 +413,7 @@
         {
          "columns":8,
          "firstgid":1370,
-         "image":"../cloud_tileset\/rpgmaker_vx\/cloud_tileA5_2.png",
+         "image":"../cloud_tileA5_2.png",
          "imageheight":512,
          "imagewidth":256,
          "margin":0,
