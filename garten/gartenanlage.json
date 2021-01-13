@@ -620,6 +620,18 @@
                          "tileid":1
                         }],
                  "id":0
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":1000,
+                         "tileid":1
+                        }, 
+                        {
+                         "duration":1000,
+                         "tileid":0
+                        }],
+                 "id":1
                 }],
          "tilewidth":32
         }, 
