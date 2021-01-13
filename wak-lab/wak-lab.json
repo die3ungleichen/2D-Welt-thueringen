@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"keller.json"
+                 "value":"wak-lab-keller.json"
                 }],
          "type":"tilelayer",
          "visible":true,
