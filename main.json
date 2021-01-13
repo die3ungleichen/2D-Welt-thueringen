@@ -32,7 +32,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/garten\/gartenanlagen.json#eingang"
+                 "value":".\/garten\/gartenanlage.json#eingang"
                 }],
          "type":"tilelayer",
          "visible":true,
