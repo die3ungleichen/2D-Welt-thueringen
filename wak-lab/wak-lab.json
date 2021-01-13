@@ -53,9 +53,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/Lyon\/lyon.json"
+                 "value":"..\/main.json#reentry-wak-lab"entr
                 }],
          "type":"tilelayer",
          "visible":true,
