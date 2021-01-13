@@ -23,6 +23,24 @@
                  "value":true
                 }],
          "type":"tilelayer",
+         "visible":false,
+         "width":15,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1095, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "height":13,
+         "id":14,
+         "name":"webseite-mr",
+         "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/blog.maschinenraum.tk\/"
+                }],
+         "type":"tilelayer",
          "visible":true,
          "width":15,
          "x":0,
@@ -35,7 +53,7 @@
          "name":"floor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":15,
          "x":0,
          "y":0
@@ -46,6 +64,24 @@
          "id":10,
          "name":"moebel",
          "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":15,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5047, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5048, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "height":13,
+         "id":15,
+         "name":"webseite-weimarnetz",
+         "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/weimarnetz.de\/"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":15,
@@ -65,7 +101,7 @@
                  "value":"..\/main.json#reentry-maschinenraum"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":15,
          "x":0,
          "y":0
@@ -124,7 +160,7 @@
                  "value":"liebe_freunde.mp3"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":15,
          "x":0,
          "y":0
@@ -147,7 +183,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":13,
+ "nextlayerid":16,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
@@ -667,6 +703,19 @@
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#ff00ff"
+        }, 
+        {
+         "columns":1,
+         "firstgid":5047,
+         "image":"tp-link-wr841-32x64.png",
+         "imageheight":64,
+         "imagewidth":32,
+         "margin":0,
+         "name":"tp-link-wr841-32x64",
+         "spacing":0,
+         "tilecount":2,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
