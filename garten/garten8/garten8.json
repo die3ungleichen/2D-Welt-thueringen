@@ -50,7 +50,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/gartenanlage.json#garten8rucksprung"
+                 "value":"..\/gartenanlage.json#garten8r"
                 }],
          "type":"tilelayer",
          "visible":true,
