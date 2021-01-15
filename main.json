@@ -248,7 +248,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/space-platform\/main.json"
+                 "value":"..\/space_platform\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
