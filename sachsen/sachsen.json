@@ -242,7 +242,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/..\/pixel-hof\/main.json"
+                 "value":"..\/..\/..\/..\/raw.githubusercontent.com/nerdhof/pixel-hof/master\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
