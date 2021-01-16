@@ -56,7 +56,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"Bytespeicher.json#reentry-makerspaceef"
+                 "value":"erfurt.json#reentry-makerspaceef"
                 }],
          "type":"tilelayer",
          "visible":true,

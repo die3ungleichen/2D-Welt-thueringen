@@ -20,7 +20,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"makerspace.json#reentry-bytespeicher"
+                 "value":"erfurt.json#reentry-makerspaceef"
                 }],
          "type":"tilelayer",
          "visible":true,
