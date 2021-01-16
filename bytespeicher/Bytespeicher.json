@@ -20,7 +20,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"makerspace.json#entrance"
+                 "value":"makerspace.json#reentry-bytespeicher"
                 }],
          "type":"tilelayer",
          "visible":true,
