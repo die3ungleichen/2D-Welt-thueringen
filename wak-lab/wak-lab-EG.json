@@ -142,7 +142,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":90,
          "x":0,
          "y":0
@@ -154,7 +154,7 @@
          "name":"top",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":90,
          "x":0,
          "y":0
