@@ -993,8 +993,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":4,
          "firstgid":3842,
-         "source":"BytespeicherHaus.tsx"
+         "image":"tilesets\/BS_Haus.png",
+         "imageheight":128,
+         "imagewidth":128,
+         "margin":0,
+         "name":"BytespeicherHaus",
+         "spacing":0,
+         "tilecount":16,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
