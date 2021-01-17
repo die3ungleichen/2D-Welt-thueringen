@@ -57,7 +57,7 @@
                  "value":"wak-lab.json#reentry-EG"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":90,
          "x":0,
          "y":0
@@ -75,7 +75,7 @@
                  "value":"wak-lab-keller.json#reentry-treppenhaus"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":90,
          "x":0,
          "y":0
@@ -86,8 +86,14 @@
          "id":16,
          "name":"reentry-waklab",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":90,
          "x":0,
          "y":0
@@ -98,8 +104,14 @@
          "id":17,
          "name":"reentry-harry-potter",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":90,
          "x":0,
          "y":0
@@ -110,8 +122,14 @@
          "id":18,
          "name":"reentry-treppenhaus",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":90,
          "x":0,
          "y":0
@@ -123,7 +141,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":90,
          "x":0,
          "y":0

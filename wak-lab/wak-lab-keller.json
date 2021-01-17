@@ -87,6 +87,12 @@
          "id":16,
          "name":"reentry-waklab",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":90,
@@ -99,6 +105,12 @@
          "id":17,
          "name":"reentry-harry-potter",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":90,
@@ -111,6 +123,12 @@
          "id":18,
          "name":"reentry-treppenhaus",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":90,

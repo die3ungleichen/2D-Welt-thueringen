@@ -87,6 +87,12 @@
          "id":20,
          "name":"reentry-EG",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
@@ -99,6 +105,12 @@
          "id":19,
          "name":"reentry-keller",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
