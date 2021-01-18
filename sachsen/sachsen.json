@@ -68,7 +68,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":""
+                 "value":"..\/..\/raw.githubusercontent.com\/z-Marcel\/z-Labor-workadventure-map\/main\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -242,7 +242,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/..\/..\/..\/..\/raw.githubusercontent.com/nerdhof/pixel-hof/master\/main.json"
+                 "value":"..\/..\/..\/..\/raw.githubusercontent.com\/nerdhof\/pixel-hof\/master\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -427,8 +427,8 @@
          "columns":5,
          "firstgid":1185,
          "image":"bg_bluesky.png",
-         "imageheight":176,
-         "imagewidth":176,
+         "imageheight":160,
+         "imagewidth":160,
          "margin":0,
          "name":"bg_bluesky",
          "spacing":0,
