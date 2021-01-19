@@ -104,7 +104,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/..\/..\/..\/maps.kraut.world\/krautspace-rc3-map\/main.json"
+                 "value":"../../../../raw.git.nr18.space/berhsi/krautspace-rc3-map/main/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
