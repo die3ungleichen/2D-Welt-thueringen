@@ -248,7 +248,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/..\/..\/..\/maps.kraut.world\/space_platform\/main.json"
+                 "value":"../../../../raw.git.nr18.space/tobi/world-spaceplatform/master/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
