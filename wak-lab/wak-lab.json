@@ -73,7 +73,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/..\/..\/..\/z-Marcel\/z-Labor-workadventure-map\/main\/main.json"
+                 "value":"..\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -91,7 +91,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.kraut.world\/_\/global\/raw.githubusercontent.com\/z-Marcel\/z-Labor-workadventure-map\/main\/main.json"
+                 "value":"..\/..\/..\/..\/z-Marcel\/z-Labor-workadventure-map\/main\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
