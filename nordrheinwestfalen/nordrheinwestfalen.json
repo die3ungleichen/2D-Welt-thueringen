@@ -74,7 +74,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/..\/..\/..\/..\/maps.kraut.world\/chaospott\/main.json"
+                 "value":"../../../../../raw.githubusercontent.com/c3e/Workadventure/master/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
