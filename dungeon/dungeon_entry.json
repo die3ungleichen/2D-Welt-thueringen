@@ -67,7 +67,7 @@
                 {
                  "name":"exitURL",
                  "type":"string",
-                 "value":"..\/main.json#reentry-dungeon"
+                 "value":"..\/wak-lab\/wak-lab.json"
                 }],
          "type":"tilelayer",
          "visible":true,
