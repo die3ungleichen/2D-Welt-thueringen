@@ -320,7 +320,7 @@
                 {
                  "name":"exitURL",
                  "type":"string",
-                 "value":""
+                 "value":".\/dungeon\/dungeon.json#reentry-thueringen"
                 }],
          "type":"tilelayer",
          "visible":true,
