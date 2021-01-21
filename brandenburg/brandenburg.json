@@ -32,7 +32,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/sachsen\/sachsen.json#reentry-brandenburg"
+                 "value":"..\/sachsen\/sachsen.json#reentry-brandenburg"
                 }],
          "type":"tilelayer",
          "visible":true,
