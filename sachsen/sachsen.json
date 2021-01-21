@@ -242,7 +242,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/brandenburg\/brandenburg.json"
+                 "value":"..\/brandenburg\/brandenburg.json#reentry-sachsen"
                 }],
          "type":"tilelayer",
          "visible":true,
