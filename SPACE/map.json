@@ -150,7 +150,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"tilesets_deviant_milkian_1.png",
+         "image":"tilesets/deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
