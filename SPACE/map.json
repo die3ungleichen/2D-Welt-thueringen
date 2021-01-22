@@ -144,13 +144,13 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.3.3",
+ "tiledversion":"1.4.3",
  "tileheight":32,
  "tilesets":[
         {
          "columns":16,
          "firstgid":1,
-         "image":"tilesets/deviant_milkian_1.png",
+         "image":"tilesets\/deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -875,8 +875,8 @@
         {
          "columns":8,
          "firstgid":257,
-         "image":"tilesets/floortileset.png",
-         "height":256,
+         "image":"tilesets\/floortileset.png",
+         "imageheight":256,
          "imagewidth":256,
          "margin":0,
          "name":"floortileset",
@@ -897,6 +897,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.2,
+ "version":1.4,
  "width":46
 }

@@ -55,6 +55,20 @@
         "/home/koleesch/develop/2D-Welt-thueringen/maschinenraum/maschinenraum.json#tp-link-wr841-32x96": {
             "scaleInDock": 1
         },
+        "map.json": {
+            "scale": 0.40336277173913043,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 737.5494736842106,
+                "y": 544.1751578947369
+            }
+        },
+        "map.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "map.json#office_1": {
+            "scaleInDock": 1
+        },
         "space.json": {
             "scale": 0.125,
             "selectedLayer": 2,
@@ -81,6 +95,20 @@
         "space.json#tilesets_deviant_milkian_1": {
             "scaleInDock": 1
         },
+        "space.tmx": {
+            "scale": 0.125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 3020,
+                "y": 636
+            }
+        },
+        "space.tmx#floor": {
+            "scaleInDock": 1
+        },
+        "space.tmx#floortileset": {
+            "scaleInDock": 1
+        },
         "unbenannt.json": {
             "scale": 0.125,
             "selectedLayer": 0,
@@ -98,6 +126,7 @@
     "project": "space.tiled-project",
     "property.type": "bool",
     "recentFiles": [
+        "map.json",
         "space.json",
         "unbenannt.json",
         "/home/koleesch/develop/2D-Welt-thueringen/maschinenraum/maschinenraum.json"
