@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="150" height="50" tilewidth="32" tileheight="32" infinite="0" nextlayerid="5" nextobjectid="1">
  <editorsettings>
-  <export target="."/>
+  <export target="space.json" format="json"/>
  </editorsettings>
  <tileset firstgid="1" name="floor" tilewidth="32" tileheight="32" tilecount="2" columns="1">
   <image source="tilesets/floor.png" width="32" height="64"/>
@@ -174,5 +174,5 @@
 55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55
 </data>
  </layer>
- <objectgroup id="3" name="floorlayer"/>
+ <objectgroup id="3" name="floorLayer"/>
 </map>

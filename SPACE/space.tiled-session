@@ -57,10 +57,10 @@
         },
         "map.json": {
             "scale": 0.40336277173913043,
-            "selectedLayer": 0,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 737.5494736842106,
-                "y": 544.1751578947369
+                "x": 740.0286315789474,
+                "y": 546.6543157894738
             }
         },
         "map.json#floortileset": {
@@ -97,7 +97,7 @@
         },
         "space.tmx": {
             "scale": 0.125,
-            "selectedLayer": 0,
+            "selectedLayer": 2,
             "viewCenter": {
                 "x": 3020,
                 "y": 636
