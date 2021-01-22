@@ -57,10 +57,10 @@
         },
         "space.json": {
             "scale": 0.125,
-            "selectedLayer": 0,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 1596,
-                "y": 92
+                "x": 3020,
+                "y": 636
             }
         },
         "space.json#SF_Inside_B": {
@@ -90,15 +90,16 @@
             }
         }
     },
-    "map.lastUsedFormat": "json",
+    "map.lastUsedExportFilter": "JSON-Kartendateien (*.json)",
+    "map.lastUsedFormat": "tmx",
     "map.orientation": null,
     "openFiles": [
     ],
     "project": "space.tiled-project",
     "property.type": "bool",
     "recentFiles": [
-        "unbenannt.json",
         "space.json",
+        "unbenannt.json",
         "/home/koleesch/develop/2D-Welt-thueringen/maschinenraum/maschinenraum.json"
     ],
     "tileset.embedInMap": true
