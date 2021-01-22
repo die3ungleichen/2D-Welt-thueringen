@@ -8,6 +8,11 @@
  </tileset>
  <tileset firstgid="3" name="floortileset" tilewidth="32" tileheight="32" tilecount="64" columns="8">
   <image source="tilesets/floortileset.png" width="256" height="256"/>
+  <tile id="52">
+   <properties>
+    <property name="collides" type="bool" value="true"/>
+   </properties>
+  </tile>
  </tileset>
  <layer id="4" name="start" width="150" height="50">
   <data encoding="csv">

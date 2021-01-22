@@ -60,7 +60,7 @@
             "selectedLayer": 3,
             "viewCenter": {
                 "x": 740.0286315789474,
-                "y": 546.6543157894738
+                "y": 544.1751578947369
             }
         },
         "map.json#floortileset": {
@@ -107,7 +107,8 @@
             "scaleInDock": 1
         },
         "space.tmx#floortileset": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "unbenannt.json": {
             "scale": 0.125,
