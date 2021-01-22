@@ -135,6 +135,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/bytespeicher.org"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -153,6 +158,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/wiki.technikkultur-erfurt.de\/projekte:3d_drucker:start"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -171,6 +181,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/erfurt.chat\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -189,6 +204,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.kids-digital.de"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
