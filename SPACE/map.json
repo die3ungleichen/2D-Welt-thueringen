@@ -875,7 +875,7 @@
         {
          "columns":8,
          "firstgid":257,
-         "image":"floortileset.png",
+         "image":"tilesets/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
