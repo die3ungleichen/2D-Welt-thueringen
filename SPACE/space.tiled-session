@@ -3,8 +3,9 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "space.tmx",
     "expandedProjectPaths": [
+        "."
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -59,7 +60,7 @@
             "scale": 0.40336277173913043,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 740.0286315789474,
+                "x": 735.0703157894736,
                 "y": 544.1751578947369
             }
         },
@@ -123,11 +124,14 @@
     "map.lastUsedFormat": "tmx",
     "map.orientation": null,
     "openFiles": [
+        "map.json",
+        "space.tmx"
     ],
     "project": "space.tiled-project",
     "property.type": "bool",
     "recentFiles": [
         "map.json",
+        "space.tmx",
         "space.json",
         "unbenannt.json",
         "/home/koleesch/develop/2D-Welt-thueringen/maschinenraum/maschinenraum.json"
