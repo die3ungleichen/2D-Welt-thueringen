@@ -111,6 +111,9 @@
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "space.tmx#modernrtp_tileb_by_painhurt": {
+            "scaleInEditor": 1
+        },
         "unbenannt.json": {
             "scale": 0.125,
             "selectedLayer": 0,
