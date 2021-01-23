@@ -2051,11 +2051,51 @@
                 }, 
                 {
                  "id":96,
+                 "objectgroup":
+                    {
+                     "draworder":"index",
+                     "id":2,
+                     "name":"",
+                     "objects":[
+                            {
+                             "height":0,
+                             "id":1,
+                             "name":"",
+                             "polygon":[
+                                    {
+                                     "x":0,
+                                     "y":0
+                                    }, 
+                                    {
+                                     "x":1.31578947368421,
+                                     "y":21.7105263157895
+                                    }, 
+                                    {
+                                     "x":15.3947368421053,
+                                     "y":21.8421052631579
+                                    }, 
+                                    {
+                                     "x":15.1315789473684,
+                                     "y":-0.394736842105263
+                                    }],
+                             "rotation":0,
+                             "type":"",
+                             "visible":true,
+                             "width":0,
+                             "x":16.5789473684211,
+                             "y":0.657894736842105
+                            }],
+                     "opacity":1,
+                     "type":"objectgroup",
+                     "visible":true,
+                     "x":0,
+                     "y":0
+                    },
                  "properties":[
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }]
                 }, 
                 {
