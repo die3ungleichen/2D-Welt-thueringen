@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tileset version="1.4" tiledversion="1.4.3" name="Erfurt_Grafik" tilewidth="32" tileheight="32" tilecount="1600" columns="40">
- <image source="tilesets/Erfurt_TILES_1024X1024.png" trans="ff00ff" width="1280" height="1280"/>
+ <image source="Erfurt_TILES_1024X1024.png" trans="ff00ff" width="1280" height="1280"/>
  <tile id="86">
   <objectgroup draworder="index" id="2">
    <object id="1" x="0.394737" y="26.4474">
