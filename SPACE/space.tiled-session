@@ -13,6 +13,41 @@
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "/home/koleesch/develop/2D-Welt-thueringen/main.json": {
+            "scale": 0.4411892361111111,
+            "selectedLayer": 21,
+            "viewCenter": {
+                "x": 448.78701426463346,
+                "y": 576.8499754058041
+            }
+        },
+        "/home/koleesch/develop/2D-Welt-thueringen/main.json#Wartburg": {
+            "scaleInDock": 1
+        },
+        "/home/koleesch/develop/2D-Welt-thueringen/main.json#[Base]BaseChip_pipo+": {
+            "scaleInDock": 1
+        },
+        "/home/koleesch/develop/2D-Welt-thueringen/main.json#bg_bluesky": {
+            "scaleInDock": 1
+        },
+        "/home/koleesch/develop/2D-Welt-thueringen/main.json#cloud_tileA5_2": {
+            "scaleInDock": 1
+        },
+        "/home/koleesch/develop/2D-Welt-thueringen/main.json#pipo-map001": {
+            "scaleInDock": 1
+        },
+        "/home/koleesch/develop/2D-Welt-thueringen/main.json#pipo-map001_at-kusa": {
+            "scaleInDock": 1
+        },
+        "/home/koleesch/develop/2D-Welt-thueringen/main.json#pipo-map001_at-tuti": {
+            "scaleInDock": 1
+        },
+        "/home/koleesch/develop/2D-Welt-thueringen/main.json#pipo-map001_at-umi": {
+            "scaleInDock": 1
+        },
+        "/home/koleesch/develop/2D-Welt-thueringen/main.json#pipo-map001_at-yama3": {
+            "scaleInDock": 1
+        },
         "C:/home/koleesch/develop/2D-Welt-thueringen/maschinenraum/maschinenraum.json": {
             "scale": 0.7402083333333334,
             "selectedLayer": 2,
@@ -99,9 +134,9 @@
         },
         "space.tmx": {
             "scale": 0.9245,
-            "selectedLayer": 8,
+            "selectedLayer": 9,
             "viewCenter": {
-                "x": 512.1687398593834,
+                "x": 389.3996755002704,
                 "y": 268.79394267171443
             }
         },
@@ -152,8 +187,9 @@
         "space.tmx"
     ],
     "project": "space.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
+        "/home/koleesch/develop/2D-Welt-thueringen/main.json",
         "space.tmx",
         "map.json",
         "space.json",
