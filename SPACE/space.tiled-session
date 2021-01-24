@@ -10,9 +10,10 @@
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
         "": {
-            "scaleInDock": 1
+            "scaleInDock": 3,
+            "scaleInEditor": 1
         },
-        "/home/koleesch/develop/2D-Welt-thueringen/maschinenraum/maschinenraum.json": {
+        "C:/home/koleesch/develop/2D-Welt-thueringen/maschinenraum/maschinenraum.json": {
             "scale": 0.7402083333333334,
             "selectedLayer": 2,
             "viewCenter": {
@@ -20,40 +21,40 @@
                 "y": 208.72502110892205
             }
         },
-        "/home/koleesch/develop/2D-Welt-thueringen/maschinenraum/maschinenraum.json#MR1": {
+        "C:/home/koleesch/develop/2D-Welt-thueringen/maschinenraum/maschinenraum.json#MR1": {
             "scaleInDock": 1
         },
-        "/home/koleesch/develop/2D-Welt-thueringen/maschinenraum/maschinenraum.json#MR2": {
+        "C:/home/koleesch/develop/2D-Welt-thueringen/maschinenraum/maschinenraum.json#MR2": {
             "scaleInDock": 1
         },
-        "/home/koleesch/develop/2D-Welt-thueringen/maschinenraum/maschinenraum.json#SF_Inside_B": {
+        "C:/home/koleesch/develop/2D-Welt-thueringen/maschinenraum/maschinenraum.json#SF_Inside_B": {
             "scaleInDock": 1
         },
-        "/home/koleesch/develop/2D-Welt-thueringen/maschinenraum/maschinenraum.json#cija_32x32": {
+        "C:/home/koleesch/develop/2D-Welt-thueringen/maschinenraum/maschinenraum.json#cija_32x32": {
             "scaleInDock": 1
         },
-        "/home/koleesch/develop/2D-Welt-thueringen/maschinenraum/maschinenraum.json#food_and_drinks": {
+        "C:/home/koleesch/develop/2D-Welt-thueringen/maschinenraum/maschinenraum.json#food_and_drinks": {
             "scaleInDock": 1
         },
-        "/home/koleesch/develop/2D-Welt-thueringen/maschinenraum/maschinenraum.json#furniture": {
+        "C:/home/koleesch/develop/2D-Welt-thueringen/maschinenraum/maschinenraum.json#furniture": {
             "scaleInDock": 1
         },
-        "/home/koleesch/develop/2D-Welt-thueringen/maschinenraum/maschinenraum.json#minideko": {
+        "C:/home/koleesch/develop/2D-Welt-thueringen/maschinenraum/maschinenraum.json#minideko": {
             "scaleInDock": 1
         },
-        "/home/koleesch/develop/2D-Welt-thueringen/maschinenraum/maschinenraum.json#plums": {
+        "C:/home/koleesch/develop/2D-Welt-thueringen/maschinenraum/maschinenraum.json#plums": {
             "scaleInDock": 1
         },
-        "/home/koleesch/develop/2D-Welt-thueringen/maschinenraum/maschinenraum.json#rc3-mullana-objects": {
+        "C:/home/koleesch/develop/2D-Welt-thueringen/maschinenraum/maschinenraum.json#rc3-mullana-objects": {
             "scaleInDock": 1
         },
-        "/home/koleesch/develop/2D-Welt-thueringen/maschinenraum/maschinenraum.json#terrain_atlas": {
+        "C:/home/koleesch/develop/2D-Welt-thueringen/maschinenraum/maschinenraum.json#terrain_atlas": {
             "scaleInDock": 1
         },
-        "/home/koleesch/develop/2D-Welt-thueringen/maschinenraum/maschinenraum.json#tp-link-wr841-32x64": {
+        "C:/home/koleesch/develop/2D-Welt-thueringen/maschinenraum/maschinenraum.json#tp-link-wr841-32x64": {
             "scaleInDock": 1
         },
-        "/home/koleesch/develop/2D-Welt-thueringen/maschinenraum/maschinenraum.json#tp-link-wr841-32x96": {
+        "C:/home/koleesch/develop/2D-Welt-thueringen/maschinenraum/maschinenraum.json#tp-link-wr841-32x96": {
             "scaleInDock": 1
         },
         "map.json": {
@@ -97,12 +98,21 @@
             "scaleInDock": 1
         },
         "space.tmx": {
-            "scale": 0.125,
-            "selectedLayer": 2,
+            "scale": 1.5,
+            "selectedLayer": 7,
             "viewCenter": {
-                "x": 3020,
-                "y": 636
+                "x": 569,
+                "y": 261.3333333333333
             }
+        },
+        "space.tmx#SF_Inside_B": {
+            "scaleInDock": 0.75
+        },
+        "space.tmx#deviant_milkian_1": {
+            "scaleInDock": 0.75
+        },
+        "space.tmx#deviant_milkian_1_adaption": {
+            "scaleInDock": 1
         },
         "space.tmx#floor": {
             "scaleInDock": 1
@@ -111,7 +121,14 @@
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "space.tmx#food_and_drinks": {
+            "scaleInDock": 2
+        },
+        "space.tmx#furniture": {
+            "scaleInDock": 0.75
+        },
         "space.tmx#modernrtp_tileb_by_painhurt": {
+            "scaleInDock": 0.75,
             "scaleInEditor": 1
         },
         "unbenannt.json": {
@@ -127,17 +144,16 @@
     "map.lastUsedFormat": "tmx",
     "map.orientation": null,
     "openFiles": [
-        "map.json",
         "space.tmx"
     ],
     "project": "space.tiled-project",
     "property.type": "bool",
     "recentFiles": [
-        "map.json",
         "space.tmx",
+        "map.json",
         "space.json",
         "unbenannt.json",
-        "/home/koleesch/develop/2D-Welt-thueringen/maschinenraum/maschinenraum.json"
+        "C:/home/koleesch/develop/2D-Welt-thueringen/maschinenraum/maschinenraum.json"
     ],
     "tileset.embedInMap": true
 }
