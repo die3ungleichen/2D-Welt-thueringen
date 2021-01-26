@@ -48,6 +48,9 @@
         "/home/koleesch/develop/2D-Welt-thueringen/main.json#pipo-map001_at-yama3": {
             "scaleInDock": 1
         },
+        "3Dprinter.tsx": {
+            "scaleInDock": 1
+        },
         "C:/home/koleesch/develop/2D-Welt-thueringen/maschinenraum/maschinenraum.json": {
             "scale": 0.7402083333333334,
             "selectedLayer": 2,
@@ -133,11 +136,11 @@
             "scaleInDock": 1
         },
         "space.tmx": {
-            "scale": 0.9245,
+            "scale": 2.5376,
             "selectedLayer": 9,
             "viewCenter": {
-                "x": 389.3996755002704,
-                "y": 268.79394267171443
+                "x": 508.7484237074401,
+                "y": 208.66172761664563
             }
         },
         "space.tmx#SF_Inside_B": {
@@ -189,8 +192,8 @@
     "project": "space.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "/home/koleesch/develop/2D-Welt-thueringen/main.json",
         "space.tmx",
+        "/home/koleesch/develop/2D-Welt-thueringen/main.json",
         "map.json",
         "space.json",
         "unbenannt.json",
