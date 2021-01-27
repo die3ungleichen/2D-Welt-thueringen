@@ -1,0 +1,500 @@
+{
+    "activeFile": "maschinenraum/maschinenraum.json",
+    "expandedProjectPaths": [
+        "garten",
+        "maschinenraum",
+        ".",
+        "/home/koleesch/develop/maschinenraum_map",
+        "/home/koleesch/Downloads/workadventure-map-starter-kit-gh-pages"
+    ],
+    "file.lastUsedOpenFilter": "Alle Dateien (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "/home/koleesch/Downloads/workadventure-map-starter-kit-gh-pages/card.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1662,
+                "y": 746.5
+            }
+        },
+        "/home/koleesch/Downloads/workadventure-map-starter-kit-gh-pages/floortileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/koleesch/Downloads/workadventure-map-starter-kit-gh-pages/map.json": {
+            "scale": 0.3497961956521739,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 740.4311516799378,
+                "y": 520.3029714507671
+            }
+        },
+        "/home/koleesch/Downloads/workadventure-map-starter-kit-gh-pages/map.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "/home/koleesch/Downloads/workadventure-map-starter-kit-gh-pages/map.json#office_1": {
+            "scaleInDock": 1
+        },
+        "/home/koleesch/Downloads/workadventure-map-starter-kit-gh-pages/tilesets_deviant_milkian_1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/koleesch/Downloads/workadventure-map-starter-kit-gh-pages/unbenannt.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1447,
+                "y": 2750
+            }
+        },
+        "/home/koleesch/Downloads/workadventure-map-starter-kit-gh-pages_test/32.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1599,
+                "y": 1599
+            }
+        },
+        "/home/koleesch/Downloads/workadventure-map-starter-kit-gh-pages_test/card.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1806,
+                "y": 1757
+            }
+        },
+        "/home/koleesch/develop/maschinenraum_map/main.json": {
+            "scale": 1,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 231,
+                "y": 207.5
+            }
+        },
+        "/home/koleesch/develop/maschinenraum_map/main.json#MR1": {
+            "scaleInDock": 1
+        },
+        "/home/koleesch/develop/maschinenraum_map/main.json#MR2": {
+            "scaleInDock": 1
+        },
+        "/home/koleesch/develop/maschinenraum_map/main.json#SF_Inside_B": {
+            "scaleInDock": 1
+        },
+        "/home/koleesch/develop/maschinenraum_map/main.json#cija_32x32": {
+            "scaleInDock": 1
+        },
+        "/home/koleesch/develop/maschinenraum_map/main.json#food_and_drinks": {
+            "scaleInDock": 1
+        },
+        "/home/koleesch/develop/maschinenraum_map/main.json#furniture": {
+            "scaleInDock": 1
+        },
+        "/home/koleesch/develop/maschinenraum_map/main.json#minideko": {
+            "scaleInDock": 1
+        },
+        "/home/koleesch/develop/maschinenraum_map/main.json#plums": {
+            "scaleInDock": 1
+        },
+        "/home/koleesch/develop/maschinenraum_map/main.json#rc3-mullana-objects": {
+            "scaleInDock": 1
+        },
+        "/home/koleesch/develop/maschinenraum_map/main.json#terrain_atlas": {
+            "scaleInDock": 1
+        },
+        "/home/koleesch/develop/maschinenraum_map/maschinenraum.json": {
+            "scale": 1.1122916666666667,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 240.04495223824688,
+                "y": 208.12886308297436
+            }
+        },
+        "/home/koleesch/develop/maschinenraum_map/maschinenraum.json#MR1": {
+            "scaleInDock": 1
+        },
+        "/home/koleesch/develop/maschinenraum_map/maschinenraum.json#MR2": {
+            "scaleInDock": 1
+        },
+        "/home/koleesch/develop/maschinenraum_map/maschinenraum.json#SF_Inside_B": {
+            "scaleInDock": 1
+        },
+        "/home/koleesch/develop/maschinenraum_map/maschinenraum.json#cija_32x32": {
+            "scaleInDock": 1
+        },
+        "/home/koleesch/develop/maschinenraum_map/maschinenraum.json#food_and_drinks": {
+            "scaleInDock": 1
+        },
+        "/home/koleesch/develop/maschinenraum_map/maschinenraum.json#furniture": {
+            "scaleInDock": 1
+        },
+        "/home/koleesch/develop/maschinenraum_map/maschinenraum.json#minideko": {
+            "scaleInDock": 1
+        },
+        "/home/koleesch/develop/maschinenraum_map/maschinenraum.json#plums": {
+            "scaleInDock": 1
+        },
+        "/home/koleesch/develop/maschinenraum_map/maschinenraum.json#rc3-mullana-objects": {
+            "scaleInDock": 1
+        },
+        "/home/koleesch/develop/maschinenraum_map/maschinenraum.json#terrain_atlas": {
+            "scaleInDock": 1
+        },
+        "/home/koleesch/develop/rc3-map/main.json": {
+            "scale": 0.7976041666666667,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 414.36593966305344,
+                "y": 297.7667493796526
+            }
+        },
+        "/home/koleesch/develop/rc3-map/main.json#MR1": {
+            "scaleInDock": 1
+        },
+        "/home/koleesch/develop/rc3-map/main.json#MR2": {
+            "scaleInDock": 1
+        },
+        "/home/koleesch/develop/rc3-map/main.json#SF_Inside_B": {
+            "scaleInDock": 1
+        },
+        "/home/koleesch/develop/rc3-map/main.json#cija_32x32_expansion for Pipoya_CC0": {
+            "scaleInDock": 1
+        },
+        "/home/koleesch/develop/rc3-map/main.json#food_and_drinks": {
+            "scaleInDock": 1
+        },
+        "/home/koleesch/develop/rc3-map/main.json#furniture": {
+            "scaleInDock": 1
+        },
+        "/home/koleesch/develop/rc3-map/main.json#minideko": {
+            "scaleInDock": 1
+        },
+        "/home/koleesch/develop/rc3-map/main.json#plums": {
+            "scaleInDock": 1
+        },
+        "/home/koleesch/develop/rc3-map/main.json#rc3-mullana-objects": {
+            "scaleInDock": 1
+        },
+        "/home/koleesch/develop/rc3-map/main.json#terrain_atlas": {
+            "scaleInDock": 1
+        },
+        "SPACE/space.json": {
+            "scale": 0.17081730769230768,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1042.0489726991275,
+                "y": 503.4618632141853
+            }
+        },
+        "SPACE/space.json#SF_Inside_B": {
+            "scaleInDock": 1
+        },
+        "SPACE/space.json#SpaceLogoW": {
+            "scaleInDock": 1
+        },
+        "SPACE/space.json#deviant_milkian_1": {
+            "scaleInDock": 1
+        },
+        "SPACE/space.json#deviant_milkian_1_adaption": {
+            "scaleInDock": 1
+        },
+        "SPACE/space.json#floor": {
+            "scaleInDock": 1
+        },
+        "SPACE/space.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "SPACE/space.json#food_and_drinks": {
+            "scaleInDock": 1
+        },
+        "SPACE/space.json#furniture": {
+            "scaleInDock": 1
+        },
+        "SPACE/space.json#modernrtp_tileb_by_painhurt": {
+            "scaleInDock": 1
+        },
+        "SPACE/space.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 714,
+                "y": 266
+            }
+        },
+        "SPACE/space.tmx#SF_Inside_B": {
+            "scaleInDock": 1
+        },
+        "SPACE/space.tmx#SpaceLogoW": {
+            "scaleInDock": 1
+        },
+        "SPACE/space.tmx#deviant_milkian_1": {
+            "scaleInDock": 1
+        },
+        "SPACE/space.tmx#deviant_milkian_1_adaption": {
+            "scaleInDock": 1
+        },
+        "SPACE/space.tmx#floor": {
+            "scaleInDock": 1
+        },
+        "SPACE/space.tmx#floortileset": {
+            "scaleInDock": 1
+        },
+        "SPACE/space.tmx#food_and_drinks": {
+            "scaleInDock": 1
+        },
+        "SPACE/space.tmx#furniture": {
+            "scaleInDock": 1
+        },
+        "SPACE/space.tmx#modernrtp_tileb_by_painhurt": {
+            "scaleInDock": 1
+        },
+        "dungeon/dungeon_entry.json": {
+            "scale": 0.514927536231884,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 295.18716577540107,
+                "y": 208.76723895299756
+            }
+        },
+        "dungeon/dungeon_entry.json#[Base]BaseChip_pipo+": {
+            "scaleInDock": 1
+        },
+        "dungeon/dungeon_entry.json#dungeon_entry_forest": {
+            "scaleInDock": 1
+        },
+        "dungeon/dungeon_entry.json#dungeon_tileset_new": {
+            "scaleInDock": 1
+        },
+        "dungeon/dungeon_entry.json#grassy_tileset": {
+            "scaleInDock": 1
+        },
+        "dungeon/dungeon_entry.json#greenery_dungeon_entry": {
+            "scaleInDock": 1
+        },
+        "dungeon/dungeon_start.json": {
+            "scale": 0.8683593749999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 160.0719748088169,
+                "y": 320.7197480881691
+            }
+        },
+        "dungeon/dungeon_start.json#[Base]BaseChip_pipo+": {
+            "scaleInDock": 1
+        },
+        "dungeon/dungeon_start.json#dungeon_tileset_new": {
+            "scaleInDock": 1
+        },
+        "garten/gartenanlage.json": {
+            "scale": 1,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1600,
+                "y": 1599.5
+            }
+        },
+        "garten/gartenanlage.json#[Base]BaseChip_pipo+": {
+            "scaleInDock": 0.5
+        },
+        "garten/gartenanlage.json#ente": {
+            "scaleInDock": 1
+        },
+        "garten/gartenanlage.json#exit": {
+            "scaleInDock": 1
+        },
+        "garten/gartenanlage.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "garten/gartenanlage.json#funkmast": {
+            "scaleInDock": 1
+        },
+        "garten/gartenanlage.json#haus": {
+            "scaleInDock": 1
+        },
+        "garten/gartenanlage.json#haus1": {
+            "scaleInDock": 1
+        },
+        "garten/gartenanlage.json#hilde3": {
+            "scaleInDock": 1
+        },
+        "garten/gartenanlage.json#poke1": {
+            "scaleInDock": 1
+        },
+        "garten/gartenanlage.json#poke2": {
+            "scaleInDock": 1
+        },
+        "garten/gartenanlage.json#poke3": {
+            "scaleInDock": 1
+        },
+        "garten/gartenanlage.json#poke4": {
+            "scaleInDock": 1
+        },
+        "garten/gartenanlage.json#poke5": {
+            "scaleInDock": 1
+        },
+        "garten/gartenanlage.json#poke6": {
+            "scaleInDock": 1
+        },
+        "garten/gartenanlage.json#poke7": {
+            "scaleInDock": 1
+        },
+        "garten/gartenanlage.json#poke8": {
+            "scaleInDock": 1
+        },
+        "garten/gartenanlage.json#tilesets_deviant_milkian_1": {
+            "scaleInDock": 1
+        },
+        "garten/gartenanlage.json#welcome": {
+            "scaleInDock": 1
+        },
+        "garten/gartenanlagen.json": {
+            "scale": 0.11192187499999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1603.7972916375825,
+                "y": 1603.7972916375822
+            }
+        },
+        "garten/gartenanlagen.json#[Base]BaseChip_pipo": {
+            "scaleInDock": 1
+        },
+        "garten/gartenanlagen.json#ente": {
+            "scaleInDock": 1
+        },
+        "garten/gartenanlagen.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "garten/gartenanlagen.json#haus": {
+            "scaleInDock": 1
+        },
+        "garten/gartenanlagen.json#haus1": {
+            "scaleInDock": 1
+        },
+        "garten/gartenanlagen.json#poke": {
+            "scaleInDock": 1
+        },
+        "garten/gartenanlagen.json#tilesets_deviant_milkian_1": {
+            "scaleInDock": 1
+        },
+        "main.json": {
+            "scale": 0.24673611111111113,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 688.9952153110047,
+                "y": 577.5401069518716
+            }
+        },
+        "main.json#Wartburg": {
+            "scaleInDock": 1
+        },
+        "main.json#[Base]BaseChip_pipo+": {
+            "scaleInDock": 1
+        },
+        "main.json#bg_bluesky": {
+            "scaleInDock": 1
+        },
+        "main.json#bonfire": {
+            "scaleInDock": 1
+        },
+        "main.json#cloud_tileA5_2": {
+            "scaleInDock": 1
+        },
+        "main.json#pipo-map001": {
+            "scaleInDock": 1
+        },
+        "main.json#pipo-map001_at-kusa": {
+            "scaleInDock": 1
+        },
+        "main.json#pipo-map001_at-tuti": {
+            "scaleInDock": 1
+        },
+        "main.json#pipo-map001_at-umi": {
+            "scaleInDock": 1
+        },
+        "main.json#pipo-map001_at-yama3": {
+            "scaleInDock": 1
+        },
+        "maschinenraum/maschinenraum.json": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 287,
+                "y": 227.5
+            }
+        },
+        "maschinenraum/maschinenraum.json#MR1": {
+            "scaleInDock": 1
+        },
+        "maschinenraum/maschinenraum.json#MR2": {
+            "scaleInDock": 1
+        },
+        "maschinenraum/maschinenraum.json#SF_Inside_B": {
+            "scaleInDock": 1
+        },
+        "maschinenraum/maschinenraum.json#cija_32x32": {
+            "scaleInDock": 1
+        },
+        "maschinenraum/maschinenraum.json#food_and_drinks": {
+            "scaleInDock": 1
+        },
+        "maschinenraum/maschinenraum.json#furniture": {
+            "scaleInDock": 1
+        },
+        "maschinenraum/maschinenraum.json#minideko": {
+            "scaleInDock": 1
+        },
+        "maschinenraum/maschinenraum.json#plums": {
+            "scaleInDock": 1
+        },
+        "maschinenraum/maschinenraum.json#rc3-mullana-objects": {
+            "scaleInDock": 1
+        },
+        "maschinenraum/maschinenraum.json#terrain_atlas": {
+            "scaleInDock": 1
+        },
+        "maschinenraum/maschinenraum.json#tp-link-wr841-32x64": {
+            "scaleInDock": 1
+        },
+        "maschinenraum/maschinenraum.json#tp-link-wr841-32x96": {
+            "scaleInDock": 1
+        }
+    },
+    "map.fixedSize": true,
+    "map.height": 100,
+    "map.lastUsedExportFilter": "Alle Dateien (*)",
+    "map.orientation": 1,
+    "map.tileHeight": 32,
+    "map.tileWidth": 32,
+    "map.width": 100,
+    "openFiles": [
+        "garten/gartenanlage.json",
+        "maschinenraum/maschinenraum.json"
+    ],
+    "project": "2D-Welt-Thüringen.tiled-project",
+    "recentFiles": [
+        "SPACE/space.json",
+        "main.json",
+        "maschinenraum/maschinenraum.json",
+        "garten/gartenanlage.json",
+        "dungeon/dungeon_entry.json",
+        "dungeon/dungeon_start.json",
+        "garten/gartenanlagen.json",
+        "/home/koleesch/develop/maschinenraum_map/maschinenraum.json",
+        "/home/koleesch/develop/maschinenraum_map/main.json",
+        "/home/koleesch/Downloads/workadventure-map-starter-kit-gh-pages/map.json",
+        "/home/koleesch/Downloads/workadventure-map-starter-kit-gh-pages/tilesets_deviant_milkian_1.tsx",
+        "/home/koleesch/Downloads/workadventure-map-starter-kit-gh-pages/floortileset.tsx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.margin": 0,
+    "tileset.spacing": 0,
+    "tileset.tileSize": {
+        "height": 32,
+        "width": 32
+    },
+    "tileset.transparentColor": "#ff00ff",
+    "tileset.type": 0,
+    "tileset.useTransparentColor": false
+}
