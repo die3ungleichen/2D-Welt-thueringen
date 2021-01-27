@@ -22,5 +22,8 @@ https://pipoya.itch.io/pipoya-rpg-tileset-32x32
 from finalbossblues:  
 https://finalbossblues.itch.io/cloud-city-tileset  
 
-and from beeler:  
-https://beeler.itch.io/top-down-earth-tileset
+from beeler:  
+https://beeler.itch.io/top-down-earth-tileset  
+
+and from hanzo kimura, edited by COAD, Benben:
+https://rpgmcommunity.forumotion.com/t63-valkyrie-stories-tileset
