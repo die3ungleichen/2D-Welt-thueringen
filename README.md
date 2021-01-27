@@ -25,5 +25,5 @@ https://finalbossblues.itch.io/cloud-city-tileset
 from beeler:  
 https://beeler.itch.io/top-down-earth-tileset  
 
-and from hanzo kimura, edited by COAD, Benben:
+and from hanzo kimura, edited by COAD, Benben:  
 https://rpgmcommunity.forumotion.com/t63-valkyrie-stories-tileset
