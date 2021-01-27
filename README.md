@@ -25,5 +25,8 @@ https://finalbossblues.itch.io/cloud-city-tileset
 from beeler:  
 https://beeler.itch.io/top-down-earth-tileset  
 
+a bonfire from here:  
+https://www.ascensiongamedev.com/topic/1042-maps-tutorial-compilation/?do=findComment&comment=17176
+
 and from hanzo kimura, edited by COAD, Benben:  
 https://rpgmcommunity.forumotion.com/t63-valkyrie-stories-tileset
