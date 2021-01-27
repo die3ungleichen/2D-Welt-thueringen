@@ -83,7 +83,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"dungeon_start.json#reentry-dungeon-start"
+                 "value":"dungeon_start.json"
                 }],
          "type":"tilelayer",
          "visible":true,
