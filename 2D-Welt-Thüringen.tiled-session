@@ -10,7 +10,8 @@
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
         "": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "/home/koleesch/Downloads/workadventure-map-starter-kit-gh-pages/card.tmx": {
             "scale": 1,
@@ -180,6 +181,9 @@
         "/home/koleesch/develop/rc3-map/main.json#terrain_atlas": {
             "scaleInDock": 1
         },
+        "SPACE/3Dprinter.tsx": {
+            "scaleInDock": 1
+        },
         "SPACE/space.json": {
             "scale": 0.17081730769230768,
             "selectedLayer": 0,
@@ -234,6 +238,9 @@
         },
         "SPACE/space.tmx#deviant_milkian_1_adaption": {
             "scaleInDock": 1
+        },
+        "SPACE/space.tmx#door": {
+            "scaleInEditor": 1
         },
         "SPACE/space.tmx#floor": {
             "scaleInDock": 1
@@ -473,6 +480,7 @@
         "maschinenraum/maschinenraum.json"
     ],
     "project": "2D-Welt-Thüringen.tiled-project",
+    "property.type": "bool",
     "recentFiles": [
         "SPACE/space.json",
         "main.json",
