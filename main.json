@@ -4,7 +4,7 @@
      "export":
         {
          "format":"json",
-         "target":"rpg-nag.json"
+         "target":"main.json"
         }
     },
  "height":36,
@@ -368,7 +368,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/md.kabi.tk\/s\/SJkGzOkg_#"
+                 "value":""
                 }, 
                 {
                  "name":"openWebsiteTrigger",
