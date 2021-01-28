@@ -387,17 +387,6 @@
          "id":33,
          "name":"infoschild-wegwei\u00dfer",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":""
-                }, 
-                {
-                 "name":"openWebsiteTrigger",
-                 "type":"string",
-                 "value":"onaction"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":44,
