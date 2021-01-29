@@ -170,7 +170,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/play.world.dezentrale.cloud\/_\/global\/maps.world.dezentrale.cloud\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
