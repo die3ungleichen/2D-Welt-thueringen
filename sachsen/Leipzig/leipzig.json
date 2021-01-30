@@ -32,7 +32,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/sachsen\/sachsen.json#reentry-leipzig"
+                 "value":"..\/sachsen\/sachsen.json#reentry-leipzig"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -201,6 +201,16 @@
          "spacing":0,
          "tilecount":904,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":1,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
