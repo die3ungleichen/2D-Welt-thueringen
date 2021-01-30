@@ -170,7 +170,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/leipzig\/leipzig.json#reentry-sachsen"
+                 "value":".\/Leipzig\/leipzig.json#reentry-sachsen"
                 }],
          "type":"tilelayer",
          "visible":true,
