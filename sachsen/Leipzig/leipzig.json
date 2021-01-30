@@ -32,7 +32,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":""
+                 "value":"..\/sachsen\/sachsen.json#reentry-leipzig"
                 }],
          "type":"tilelayer",
          "visible":true,
