@@ -265,6 +265,10 @@
         "SPACE/space.tmx#modernrtp_tileb_by_painhurt": {
             "scaleInDock": 1
         },
+        "SPACE/tilesets/mouse.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
         "dungeon/dungeon_entry.json": {
             "scale": 0.514927536231884,
             "selectedLayer": 0,
@@ -559,6 +563,7 @@
     "project": "2D-Welt-Thüringen.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "SPACE/tilesets/mouse.tsx",
         "maschinenraum/maschinenraum.json",
         "SPACE/space.tmx",
         "wak-lab/wak-lab-keller.json",
@@ -569,8 +574,7 @@
         "garten/gartenanlage.json",
         "dungeon/dungeon_entry.json",
         "dungeon/dungeon_start.json",
-        "garten/gartenanlagen.json",
-        "/home/koleesch/develop/maschinenraum_map/maschinenraum.json"
+        "garten/gartenanlagen.json"
     ],
     "tileset.embedInMap": true,
     "tileset.margin": 0,
