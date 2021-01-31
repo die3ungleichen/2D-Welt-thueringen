@@ -236,7 +236,8 @@
             "scaleInDock": 1
         },
         "SPACE/space.tmx#SpaceLogoW": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "SPACE/space.tmx#deviant_milkian_1": {
             "scaleInDock": 1
