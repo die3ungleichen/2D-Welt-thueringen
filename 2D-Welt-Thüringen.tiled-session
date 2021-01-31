@@ -253,7 +253,8 @@
             "scaleInDock": 1
         },
         "SPACE/space.tmx#floortileset": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "SPACE/space.tmx#food_and_drinks": {
             "scaleInDock": 1
@@ -547,7 +548,7 @@
     "frame.defaultDuration": 500,
     "map.fixedSize": true,
     "map.height": 100,
-    "map.lastUsedExportFilter": "Alle Dateien (*)",
+    "map.lastUsedExportFilter": "JSON-Kartendateien (*.json)",
     "map.orientation": 1,
     "map.tileHeight": 32,
     "map.tileWidth": 32,
@@ -556,7 +557,7 @@
         "maschinenraum/maschinenraum.json"
     ],
     "project": "2D-Welt-Thüringen.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
         "maschinenraum/maschinenraum.json",
         "SPACE/space.tmx",
