@@ -265,6 +265,9 @@
         "SPACE/space.tmx#modernrtp_tileb_by_painhurt": {
             "scaleInDock": 1
         },
+        "SPACE/space.tmx#mouse": {
+            "scaleInEditor": 1
+        },
         "SPACE/tilesets/mouse.tsx": {
             "scaleInDock": 3,
             "scaleInEditor": 1
@@ -549,7 +552,7 @@
             "scaleInDock": 1
         }
     },
-    "frame.defaultDuration": 500,
+    "frame.defaultDuration": 250,
     "map.fixedSize": true,
     "map.height": 100,
     "map.lastUsedExportFilter": "JSON-Kartendateien (*.json)",
