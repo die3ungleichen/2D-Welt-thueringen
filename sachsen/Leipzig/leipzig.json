@@ -104,7 +104,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":""
+                 "value":"..\/..\/..\/..\/..\/..\/maps.world.dezentrale.cloud\/main.json#entry_2d_welt_thueringen"
                 }],
          "type":"tilelayer",
          "visible":true,
