@@ -32,7 +32,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":""
+                 "value":"..\/..\/..\/..\/..\/raw.githubusercontent.com\/hateotu\/wa-space\/main\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
