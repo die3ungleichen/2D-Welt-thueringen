@@ -200,7 +200,7 @@
   </tile>
   <tile id="9">
    <animation>
-    <frame tileid="5" duration="1000"/>
+    <frame tileid="5" duration="1250"/>
     <frame tileid="4" duration="250"/>
     <frame tileid="0" duration="250"/>
     <frame tileid="1" duration="250"/>

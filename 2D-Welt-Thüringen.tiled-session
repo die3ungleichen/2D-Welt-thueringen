@@ -602,8 +602,8 @@
     "project": "2D-Welt-Thüringen.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "sachsen/sachsen.json",
         "maschinenraum/maschinenraum.json",
+        "sachsen/sachsen.json",
         "SPACE/tilesets/mouse.tsx",
         "SPACE/space.tmx",
         "wak-lab/wak-lab-keller.json",
