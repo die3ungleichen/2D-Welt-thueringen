@@ -1,18 +1,17 @@
 {
-    "activeFile": "maschinenraum/maschinenraum.json",
+    "activeFile": "SPACE/space.tmx",
     "expandedProjectPaths": [
-        "SPACE",
-        "dungeon",
-        "/home/koleesch/Downloads/workadventure-map-starter-kit-gh-pages",
         "wak-lab",
-        ".",
+        "SPACE",
+        "maschinenraum",
+        "/home/koleesch/Downloads/workadventure-map-starter-kit-gh-pages",
         "/home/koleesch/develop/maschinenraum_map",
-        "maschinenraum"
+        "."
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
         "": {
-            "scaleInDock": 1,
+            "scaleInDock": 4,
             "scaleInEditor": 1
         },
         "/home/koleesch/Downloads/workadventure-map-starter-kit-gh-pages/card.tmx": {
@@ -222,11 +221,11 @@
             "scaleInDock": 1
         },
         "SPACE/space.tmx": {
-            "scale": 0.5,
-            "selectedLayer": 8,
+            "scale": 1.5,
+            "selectedLayer": 10,
             "viewCenter": {
-                "x": 718,
-                "y": 410
+                "x": 640,
+                "y": 424.66666666666663
             }
         },
         "SPACE/space.tmx#3Dprinter": {
@@ -236,7 +235,12 @@
             "scaleInDock": 1
         },
         "SPACE/space.tmx#SpaceLogoW": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "SPACE/space.tmx#SpaceLogoW_ani": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "SPACE/space.tmx#deviant_milkian_1": {
             "scaleInDock": 1
@@ -252,7 +256,8 @@
             "scaleInDock": 1
         },
         "SPACE/space.tmx#floortileset": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "SPACE/space.tmx#food_and_drinks": {
             "scaleInDock": 1
@@ -260,8 +265,19 @@
         "SPACE/space.tmx#furniture": {
             "scaleInDock": 1
         },
+        "SPACE/space.tmx#minideko": {
+            "scaleInDock": 1
+        },
         "SPACE/space.tmx#modernrtp_tileb_by_painhurt": {
             "scaleInDock": 1
+        },
+        "SPACE/space.tmx#mouse": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "SPACE/tilesets/mouse.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
         },
         "dungeon/dungeon_entry.json": {
             "scale": 0.514927536231884,
@@ -433,8 +449,8 @@
             "scale": 3,
             "selectedLayer": 6,
             "viewCenter": {
-                "x": 221,
-                "y": 53.666666666666664
+                "x": 239.66666666666666,
+                "y": 387.66666666666663
             }
         },
         "maschinenraum/maschinenraum.json#MR1": {
@@ -444,7 +460,7 @@
             "scaleInDock": 1
         },
         "maschinenraum/maschinenraum.json#SF_Inside_B": {
-            "scaleInDock": 1.5
+            "scaleInDock": 1
         },
         "maschinenraum/maschinenraum.json#cija_32x32": {
             "scaleInDock": 1
@@ -462,7 +478,7 @@
             "scaleInDock": 1
         },
         "maschinenraum/maschinenraum.json#rc3-mullana-objects": {
-            "scaleInDock": 1.5
+            "scaleInDock": 1
         },
         "maschinenraum/maschinenraum.json#terrain_atlas": {
             "scaleInDock": 0.75
@@ -474,6 +490,38 @@
             "scaleInDock": 1
         },
         "maschinenraum/maschinenraum.json#whiteboard": {
+            "scaleInDock": 1
+        },
+        "sachsen/sachsen.json": {
+            "scale": 0.43996874999999996,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 801.193266567228,
+                "y": 367.07152496626185
+            }
+        },
+        "sachsen/sachsen.json#TileSet_V2-ohnegrün": {
+            "scaleInDock": 1
+        },
+        "sachsen/sachsen.json#[Base]BaseChip_pipo+": {
+            "scaleInDock": 1
+        },
+        "sachsen/sachsen.json#bg_bluesky": {
+            "scaleInDock": 1
+        },
+        "sachsen/sachsen.json#cloud_tileA5_2": {
+            "scaleInDock": 1
+        },
+        "sachsen/sachsen.json#pipo-map001": {
+            "scaleInDock": 1
+        },
+        "sachsen/sachsen.json#pipo-map001_at-tuti": {
+            "scaleInDock": 1
+        },
+        "sachsen/sachsen.json#pipo-map001_at-umi": {
+            "scaleInDock": 1
+        },
+        "sachsen/sachsen.json#pipo-map001_at-yama2": {
             "scaleInDock": 1
         },
         "wak-lab/wak-lab-EG.json": {
@@ -543,22 +591,24 @@
             "scaleInDock": 1
         }
     },
-    "frame.defaultDuration": 500,
+    "frame.defaultDuration": 250,
     "map.fixedSize": true,
     "map.height": 100,
-    "map.lastUsedExportFilter": "Alle Dateien (*)",
+    "map.lastUsedExportFilter": "JSON-Kartendateien (*.json)",
     "map.orientation": 1,
     "map.tileHeight": 32,
     "map.tileWidth": 32,
     "map.width": 100,
     "openFiles": [
-        "maschinenraum/maschinenraum.json"
+        "SPACE/space.tmx"
     ],
     "project": "2D-Welt-Thüringen.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
-        "maschinenraum/maschinenraum.json",
         "SPACE/space.tmx",
+        "maschinenraum/maschinenraum.json",
+        "sachsen/sachsen.json",
+        "SPACE/tilesets/mouse.tsx",
         "wak-lab/wak-lab-keller.json",
         "wak-lab/wak-lab-EG.json",
         "wak-lab/wak-lab.json",
@@ -566,9 +616,7 @@
         "main.json",
         "garten/gartenanlage.json",
         "dungeon/dungeon_entry.json",
-        "dungeon/dungeon_start.json",
-        "garten/gartenanlagen.json",
-        "/home/koleesch/develop/maschinenraum_map/maschinenraum.json"
+        "dungeon/dungeon_start.json"
     ],
     "tileset.embedInMap": true,
     "tileset.margin": 0,
