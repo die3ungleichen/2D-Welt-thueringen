@@ -175,7 +175,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Maschinenraum"
+                 "value":"https:\/\/meet.weimarnetz.de\/ImMaschinenraum"
                 }],
          "type":"tilelayer",
          "visible":true,
