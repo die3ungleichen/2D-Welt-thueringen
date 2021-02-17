@@ -1,12 +1,12 @@
 {
-    "activeFile": "SPACE/space.tmx",
+    "activeFile": "maschinenraum/maschinenraum.json",
     "expandedProjectPaths": [
-        "wak-lab",
         "SPACE",
-        "maschinenraum",
-        "/home/koleesch/Downloads/workadventure-map-starter-kit-gh-pages",
         "/home/koleesch/develop/maschinenraum_map",
-        "."
+        ".",
+        "maschinenraum",
+        "wak-lab",
+        "/home/koleesch/Downloads/workadventure-map-starter-kit-gh-pages"
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -224,8 +224,8 @@
             "scale": 1.5,
             "selectedLayer": 10,
             "viewCenter": {
-                "x": 611,
-                "y": 459
+                "x": 1040,
+                "y": 495.33333333333326
             }
         },
         "SPACE/space.tmx#3Dprinter": {
@@ -447,10 +447,10 @@
         },
         "maschinenraum/maschinenraum.json": {
             "scale": 3,
-            "selectedLayer": 6,
+            "selectedLayer": 10,
             "viewCenter": {
-                "x": 239.66666666666666,
-                "y": 387.66666666666663
+                "x": 236.33333333333331,
+                "y": 387.5
             }
         },
         "maschinenraum/maschinenraum.json#MR1": {
@@ -529,7 +529,7 @@
             "selectedLayer": 0,
             "viewCenter": {
                 "x": 1425.5727554179566,
-                "y": 1042.4148606811145
+                "y": 1045.2321981424147
             }
         },
         "wak-lab/wak-lab-EG.json#floortileset": {
@@ -546,7 +546,7 @@
             "selectedLayer": 0,
             "viewCenter": {
                 "x": 1443.343653250774,
-                "y": 1042.1052631578948
+                "y": 1044.8916408668733
             }
         },
         "wak-lab/wak-lab-keller.json#WAK-Lab-alqt": {
@@ -562,11 +562,11 @@
             "scaleInDock": 1
         },
         "wak-lab/wak-lab.json": {
-            "scale": 0.34361702127659577,
-            "selectedLayer": 0,
+            "scale": 1.7292,
+            "selectedLayer": 19,
             "viewCenter": {
-                "x": 721.7337461300309,
-                "y": 544.2105263157896
+                "x": 979.6437659033079,
+                "y": 606.9280592181356
             }
         },
         "wak-lab/wak-lab.json#floortileset": {
@@ -600,18 +600,19 @@
     "map.tileWidth": 32,
     "map.width": 100,
     "openFiles": [
-        "SPACE/space.tmx"
+        "SPACE/space.tmx",
+        "maschinenraum/maschinenraum.json"
     ],
     "project": "2D-Welt-Thüringen.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "SPACE/space.tmx",
         "maschinenraum/maschinenraum.json",
+        "wak-lab/wak-lab.json",
+        "wak-lab/wak-lab-EG.json",
+        "wak-lab/wak-lab-keller.json",
+        "SPACE/space.tmx",
         "sachsen/sachsen.json",
         "SPACE/tilesets/mouse.tsx",
-        "wak-lab/wak-lab-keller.json",
-        "wak-lab/wak-lab-EG.json",
-        "wak-lab/wak-lab.json",
         "SPACE/space.json",
         "main.json",
         "garten/gartenanlage.json",

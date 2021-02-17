@@ -173,9 +173,14 @@
          "opacity":0.45,
          "properties":[
                 {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"ImMaschinenraum"
+                }, 
+                {
                  "name":"jitsiUrl",
                  "type":"string",
-                 "value":"meet.weimarnetz.de\/ImMaschinenraum"
+                 "value":"meet.weimarnetz.de"
                 }],
          "type":"tilelayer",
          "visible":true,
