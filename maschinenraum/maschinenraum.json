@@ -191,6 +191,12 @@
  "nextlayerid":16,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"jitsiUrl",
+         "type":"string",
+         "value":"https:\/\/meet.weimarnetz.de"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
  "tileheight":32,

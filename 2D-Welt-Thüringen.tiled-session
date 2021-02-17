@@ -222,10 +222,10 @@
         },
         "SPACE/space.tmx": {
             "scale": 1.5,
-            "selectedLayer": 10,
+            "selectedLayer": 11,
             "viewCenter": {
                 "x": 1040,
-                "y": 495.33333333333326
+                "y": 494.99999999999994
             }
         },
         "SPACE/space.tmx#3Dprinter": {
@@ -450,7 +450,7 @@
             "selectedLayer": 10,
             "viewCenter": {
                 "x": 236.33333333333331,
-                "y": 387.5
+                "y": 57.49999999999999
             }
         },
         "maschinenraum/maschinenraum.json#MR1": {
