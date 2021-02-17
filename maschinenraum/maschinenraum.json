@@ -180,7 +180,7 @@
                 {
                  "name":"jitsiUrl",
                  "type":"string",
-                 "value":"meet.weimarnetz.de"
+                 "value":"https:\/\/meet.weimarnetz.de"
                 }],
          "type":"tilelayer",
          "visible":true,
