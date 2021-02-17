@@ -176,11 +176,6 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"ImMaschinenraum"
-                }, 
-                {
-                 "name":"jitsiUrl",
-                 "type":"string",
-                 "value":"https:\/\/meet.weimarnetz.de"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -195,7 +190,7 @@
         {
          "name":"jitsiUrl",
          "type":"string",
-         "value":"https:\/\/meet.weimarnetz.de"
+         "value":"meet.weimarnetz.de"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
