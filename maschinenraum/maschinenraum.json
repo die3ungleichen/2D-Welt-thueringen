@@ -175,7 +175,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Maschinenraum"
+                 "value":"ImMaschinenraum"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -186,6 +186,12 @@
  "nextlayerid":16,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"jitsiUrl",
+         "type":"string",
+         "value":"meet.weimarnetz.de"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
  "tileheight":32,
