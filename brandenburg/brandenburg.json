@@ -68,7 +68,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/sachsenanhalt\/sachsenanhalt.json#reentry-brandenburg"
+                 "value":"..\/sachsenanhalt\/sachsenanhalt.json#reentry-brandenburg"
                 }],
          "type":"tilelayer",
          "visible":true,
