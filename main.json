@@ -350,7 +350,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/sachsenanhalt\/sachsenanhalt.json#reentry-thueringen"
+                 "value":".\/sachsenanhalt\/sachsenanhalt.json#reentry-thueringen"
                 }],
          "type":"tilelayer",
          "visible":true,
