@@ -1991,14 +1991,6 @@
                 {
                  "animation":[
                         {
-                         "duration":10000,
-                         "tileid":183
-                        }, 
-                        {
-                         "duration":10000,
-                         "tileid":198
-                        }, 
-                        {
                          "duration":200,
                          "tileid":30
                         }, 
@@ -2434,14 +2426,6 @@
                 }, 
                 {
                  "animation":[
-                        {
-                         "duration":10000,
-                         "tileid":182
-                        }, 
-                        {
-                         "duration":10000,
-                         "tileid":197
-                        }, 
                         {
                          "duration":200,
                          "tileid":31
@@ -2879,14 +2863,6 @@
                 {
                  "animation":[
                         {
-                         "duration":10000,
-                         "tileid":182
-                        }, 
-                        {
-                         "duration":10000,
-                         "tileid":197
-                        }, 
-                        {
                          "duration":200,
                          "tileid":32
                         }, 
@@ -3322,14 +3298,6 @@
                 }, 
                 {
                  "animation":[
-                        {
-                         "duration":10000,
-                         "tileid":182
-                        }, 
-                        {
-                         "duration":10000,
-                         "tileid":197
-                        }, 
                         {
                          "duration":200,
                          "tileid":32
@@ -3767,14 +3735,6 @@
                 {
                  "animation":[
                         {
-                         "duration":10000,
-                         "tileid":183
-                        }, 
-                        {
-                         "duration":10000,
-                         "tileid":198
-                        }, 
-                        {
                          "duration":200,
                          "tileid":33
                         }, 
@@ -4210,14 +4170,6 @@
                 }, 
                 {
                  "animation":[
-                        {
-                         "duration":10000,
-                         "tileid":182
-                        }, 
-                        {
-                         "duration":10000,
-                         "tileid":197
-                        }, 
                         {
                          "duration":200,
                          "tileid":34
