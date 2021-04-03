@@ -100,6 +100,12 @@
          "id":14,
          "name":"exit-chemnitz",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"..\/..\/..\/..\/..\/raw.githubusercontent.com\/ChaosChemnitz\/workadventure-map\/kraut.world\/main.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
