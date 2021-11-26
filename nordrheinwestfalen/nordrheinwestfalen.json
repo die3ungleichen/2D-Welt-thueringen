@@ -110,7 +110,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/niedersachsen\/niedersachsen.json#reentry-nordrheinwestfalen"
+                 "value":"..\/niedersachsen\/niedersachsen.json#reentry-nordrheinwestfalen"
                 }],
          "type":"tilelayer",
          "visible":true,
