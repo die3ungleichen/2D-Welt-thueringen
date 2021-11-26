@@ -1,4 +1,12 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "format":"json",
+         "target":"niedersachsen.json"
+        }
+    },
  "height":65,
  "infinite":false,
  "layers":[
@@ -225,7 +233,7 @@
         {
          "columns":8,
          "firstgid":1137,
-         "image":"..\/th\u00fcringen\/pipo-map001_at-yama3.png",
+         "image":"pipo-map001_at-yama3.png",
          "imageheight":192,
          "imagewidth":256,
          "margin":0,
