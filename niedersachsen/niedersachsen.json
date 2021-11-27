@@ -170,7 +170,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/sachsenanhalt\/sachsenanhalt.json#reentry-niedersachsen"
+                 "value":"..\/sachsenanhalt\/sachsenanhalt.json#reentry-niedersachsen"
                 }],
          "type":"tilelayer",
          "visible":true,
