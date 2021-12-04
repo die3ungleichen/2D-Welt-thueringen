@@ -140,7 +140,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.kraut.world\/_\/global\/raw.githubusercontent.com\/c3d2\/ds2020workadventuretest\/master\/main.json"
+                 "value":"https:\/\/play.kraut.world\/_\/global\/raw.githubusercontent.com\/c3d2\/ds2020workadventuretest\/krautworld\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
