@@ -68,7 +68,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":""
+                 "value":"..\/..\/..\/..\/..\/..\/world.naturkunde.museum\/Naturkundemuseum_Vorgarten.json#entry_2d_welt_thueringen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -259,7 +259,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -326,6 +326,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":"1.6",
  "width":20
 }
