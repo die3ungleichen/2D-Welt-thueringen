@@ -356,7 +356,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.kraut.world\/_\/global\/metalab.github.io\/maptest\/hbf\/bahnsteig.json#start_rj_sued_7"
+                 "value":"https:\/\/play.kraut.world\/_\/global\/metalab.github.io\/maptest\/bahnsteig.json#start_rj_nord_7"
                 }],
          "type":"tilelayer",
          "visible":true,
