@@ -200,9 +200,14 @@
  "orientation":"orthogonal",
  "properties":[
         {
+         "name":"jitsiRoom",
+         "type":"string",
+         "value":"ImMaschinenraum"
+        }, 
+        {
          "name":"jitsiUrl",
          "type":"string",
-         "value":"meet.weimarnetz.de\/ImMaschinenraum"
+         "value":"meet.weimarnetz.de"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
