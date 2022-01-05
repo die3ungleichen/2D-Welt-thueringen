@@ -173,9 +173,9 @@
          "opacity":0.45,
          "properties":[
                 {
-                 "name":"jitsiUrl",
+                 "name":"jitsiRoom",
                  "type":"string",
-                 "value":"meet.weimarnetz.de\/ImMaschinenraum"
+                 "value":"https:\/\/meet.weimarnetz.de\/ImMaschinenraum"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -198,17 +198,6 @@
  "nextlayerid":17,
  "nextobjectid":1,
  "orientation":"orthogonal",
- "properties":[
-        {
-         "name":"jitsiRoom",
-         "type":"string",
-         "value":"ImMaschinenraum"
-        }, 
-        {
-         "name":"jitsiUrl",
-         "type":"string",
-         "value":"meet.weimarnetz.de"
-        }],
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
  "tileheight":32,
