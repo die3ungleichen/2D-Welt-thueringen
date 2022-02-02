@@ -50,7 +50,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"SPACE _Meeting"
+                 "value":"SPACEMeeting"
                 }, 
                 {
                  "name":"jitsiUrl",
