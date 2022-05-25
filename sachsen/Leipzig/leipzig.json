@@ -68,7 +68,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/play.world.dezentrale.cloud\/_\/global\/world.naturkunde.museum\/Naturkundemuseum_Vorgarten.json#entry_2d_welt_thueringen"
                 }],
          "type":"tilelayer",
          "visible":true,
