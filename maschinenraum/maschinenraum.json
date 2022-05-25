@@ -4,7 +4,7 @@
      "export":
         {
          "format":"json",
-         "target":"main.json"
+         "target":"maschinenraum.json"
         }
     },
  "height":13,
@@ -23,7 +23,25 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
+         "width":15,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4865, 4866, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4881, 4882, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "height":13,
+         "id":6,
+         "name":"exit",
+         "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"..\/main.json#reentry-maschinenraum"
+                }],
+         "type":"tilelayer",
+         "visible":true,
          "width":15,
          "x":0,
          "y":0
@@ -53,7 +71,7 @@
          "name":"floor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":15,
          "x":0,
          "y":0
@@ -84,24 +102,6 @@
                 }],
          "type":"tilelayer",
          "visible":true,
-         "width":15,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4865, 4866, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4881, 4882, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-         "height":13,
-         "id":6,
-         "name":"exit",
-         "opacity":1,
-         "properties":[
-                {
-                 "name":"exitUrl",
-                 "type":"string",
-                 "value":"..\/main.json#reentry-maschinenraum"
-                }],
-         "type":"tilelayer",
-         "visible":false,
          "width":15,
          "x":0,
          "y":0
@@ -160,7 +160,7 @@
                  "value":"liebe_freunde.mp3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":15,
          "x":0,
          "y":0
@@ -176,22 +176,33 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"ImMaschinenraum"
+                }, 
+                {
+                 "name":"jitsiUrl",
+                 "type":"string",
+                 "value":"meet.weimarnetz.de"
                 }],
          "type":"tilelayer",
          "visible":true,
          "width":15,
          "x":0,
          "y":0
+        }, 
+        {
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1026, 1026, 1028, 1028, 1028, 0, 0, 1028, 1028, 2413, 2413, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "height":13,
+         "id":16,
+         "name":"moebel-over",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":15,
+         "x":0,
+         "y":0
         }],
- "nextlayerid":16,
+ "nextlayerid":17,
  "nextobjectid":1,
  "orientation":"orthogonal",
- "properties":[
-        {
-         "name":"jitsiUrl",
-         "type":"string",
-         "value":"meet.weimarnetz.de"
-        }],
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
  "tileheight":32,
@@ -228,7 +239,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }]
                 }, 
                 {
@@ -506,7 +517,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }]
                 }, 
                 {
