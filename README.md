@@ -30,4 +30,3 @@ https://www.ascensiongamedev.com/topic/1042-maps-tutorial-compilation/?do=findCo
 
 and from hanzo kimura, edited by COAD, Benben:  
 https://rpgmcommunity.forumotion.com/t63-valkyrie-stories-tileset
-
