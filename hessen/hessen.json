@@ -1,4 +1,12 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "format":"json",
+         "target":"hessen.json"
+        }
+    },
  "height":57,
  "infinite":false,
  "layers":[
@@ -84,7 +92,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/niedersachsen\/niedersachsen.json#reentry-hessen"
+                 "value":"..\/niedersachsen\/niedersachsen.json#reentry-hessen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -120,7 +128,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/nordrheinwestfalen\/nordrheinwestfalen.json#reentry-hessen"
+                 "value":"..\/nordrheinwestfalen\/nordrheinwestfalen.json#reentry-hessen"
                 }],
          "type":"tilelayer",
          "visible":true,
