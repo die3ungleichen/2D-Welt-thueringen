@@ -98,7 +98,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/hessen\/hessen.json#reentry-niedersachsen"
+                 "value":"..\/hessen\/hessen.json#reentry-niedersachsen"
                 }],
          "type":"tilelayer",
          "visible":true,
