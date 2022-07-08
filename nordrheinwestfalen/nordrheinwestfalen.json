@@ -38,7 +38,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/hessen\/hessen.json#reentry-nordrheinwestfalen"
+                 "value":"..\/hessen\/hessen.json#reentry-nordrheinwestfalen"
                 }],
          "type":"tilelayer",
          "visible":true,
