@@ -23,7 +23,10 @@ from finalbossblues:
 https://finalbossblues.itch.io/cloud-city-tileset  
 
 from beeler:  
-https://beeler.itch.io/top-down-earth-tileset  
+https://beeler.itch.io/top-down-earth-tileset
+
+from enterbrain:
+https://thestoryteller01.wordpress.com/tag/tileset/
 
 a bonfire from here:  
 https://www.ascensiongamedev.com/topic/1042-maps-tutorial-compilation/?do=findComment&comment=17176
