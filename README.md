@@ -1,6 +1,6 @@
 # 2D-Welt-thueringen
 ..  
-![2D-Welt-thueringen](https://raw.githubusercontent.com/die3ungleichen/2D-Welt-thueringen/main/screenshots/Bildschirmfoto%20vom%202021-01-28%2005-13-03.png)
+![2D-Welt-thueringen](https://raw.githubusercontent.com/die3ungleichen/2D-Welt-thueringen/main/screenshots/2022-08-26-th%C3%BCringen.png)
 
 We use the game engine from workadventu.re:  
 
