@@ -525,8 +525,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":8,
          "firstgid":1162,
-         "source":"cloud_tileA5_2.tsx"
+         "image":"cloud_tileA5_2.png",
+         "imageheight":512,
+         "imagewidth":256,
+         "margin":0,
+         "name":"cloud_tileA5_2",
+         "spacing":0,
+         "tilecount":128,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "columns":8,
