@@ -39,6 +39,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"thereisnoplenum"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
