@@ -18,6 +18,8 @@ We used following tilesets:
 from pipoya:  
 https://pipoya.itch.io/pipoya-free-rpg-world-tileset-32x32-40x40-48x48  
 https://pipoya.itch.io/pipoya-rpg-tileset-32x32  
+demo ships out of that tileset  
+https://pipoya.itch.io/vehicle-ship-sprites
 
 from finalbossblues:  
 https://finalbossblues.itch.io/cloud-city-tileset  
