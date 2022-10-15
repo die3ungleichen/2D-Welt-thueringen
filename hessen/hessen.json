@@ -176,7 +176,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/raw.git.hackspace-jena.de\/blaudioslave\/chaos-darmstadt\/raw\/branch\/master\/main.json#reentry-hessen"
+                 "value":"https:\/\/play.kraut.world\/_\/global\/raw.git.hackspace-jena.de\/blaudioslave\/chaos-darmstadt\/raw\/branch\/master\/main.json#reentry-hessen"
                 }],
          "type":"tilelayer",
          "visible":true,
