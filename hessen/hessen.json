@@ -4,7 +4,7 @@
      "export":
         {
          "format":"json",
-         "target":"."
+         "target":"hessen.json"
         }
     },
  "height":57,
@@ -176,7 +176,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.kraut.world\/_\/global\/raw.git.hackspace-jena.de\/Kraut.World\/chaos-darmstadt\/branch\/master\/main.json#reentry-hessen"
+                 "value":"https:\/\/raw.git.hackspace-jena.de\/blaudioslave\/chaos-darmstadt\/raw\/branch\/master\/main.json#reentry-hessen"
                 }],
          "type":"tilelayer",
          "visible":true,
