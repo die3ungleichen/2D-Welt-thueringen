@@ -104,7 +104,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/..\/..\/..\/..\/..\/maps.world.dezentrale.cloud\/main.json#entry_2d_welt_thueringen"
+                 "value":"https:\/\/play.kraut.world\/_\/global\/raw.git.hackspace-jena.de\/Kraut.World\/dezentrale-workadventure-maps\/raw\/branch\/master\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
