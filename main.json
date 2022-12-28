@@ -422,7 +422,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/bayern\/bayern.json#reentry-thueringen1"
+                 "value":".\/bayern\/bayern.json#reentry-thueringen1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -458,7 +458,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/bayern\/bayern.json#reentry-thueringen2"
+                 "value":".\/bayern\/bayern.json#reentry-thueringen2"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -494,7 +494,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/bayern\/bayern.json#reentry-thueringen3"
+                 "value":".\/bayern\/bayern.json#reentry-thueringen3"
                 }],
          "type":"tilelayer",
          "visible":true,
