@@ -253,7 +253,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/hessen\/hessen.json#reentry-baden-wuerttemberg"
+                 "value":"..\/hessen\/hessen.json#reentry-baden-wuerttemberg"
                 }],
          "type":"tilelayer",
          "visible":true,
