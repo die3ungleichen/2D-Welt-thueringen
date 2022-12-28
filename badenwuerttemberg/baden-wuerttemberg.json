@@ -1,4 +1,12 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "format":"json",
+         "target":"baden-wuerttemberg.json"
+        }
+    },
  "height":55,
  "infinite":false,
  "layers":[
