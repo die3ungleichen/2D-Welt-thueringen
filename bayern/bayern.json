@@ -398,7 +398,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/hessen\/hessen.json#reentry-bayern1"
+                 "value":"..\/hessen\/hessen.json#reentry-bayern1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -434,7 +434,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/hessen\/hessen.json#reentry-bayern2"
+                 "value":"..\/hessen\/hessen.json#reentry-bayern2"
                 }],
          "type":"tilelayer",
          "visible":true,
