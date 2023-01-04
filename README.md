@@ -19,7 +19,7 @@ from pipoya:
 https://pipoya.itch.io/pipoya-free-rpg-world-tileset-32x32-40x40-48x48  
 https://pipoya.itch.io/pipoya-rpg-tileset-32x32  
 demo ships out of that tileset  
-https://pipoya.itch.io/vehicle-ship-sprites
+https://pipoya.itch.io/vehicle-ship-sprites  
 also wokas from pipoya
 https://pipoya.itch.io/pipoya-free-rpg-character-sprites-32x32
 
