@@ -1,6 +1,6 @@
 # 2D-Welt-thueringen
 ..  
-![2D-Welt-thueringen](https://raw.githubusercontent.com/die3ungleichen/2D-Welt-thueringen/main/screenshots/2022-08-26-th%C3%BCringen.png)
+![2D-Welt-thueringen](https://raw.githubusercontent.com/die3ungleichen/2D-Welt-thueringen/main/screenshots/2023-01-04-thueringen.png)
 
 We use the game engine from workadventu.re:  
 
@@ -20,6 +20,8 @@ https://pipoya.itch.io/pipoya-free-rpg-world-tileset-32x32-40x40-48x48
 https://pipoya.itch.io/pipoya-rpg-tileset-32x32  
 demo ships out of that tileset  
 https://pipoya.itch.io/vehicle-ship-sprites
+also wokas from pipoya
+https://pipoya.itch.io/pipoya-free-rpg-character-sprites-32x32
 
 from finalbossblues:  
 https://finalbossblues.itch.io/cloud-city-tileset  
