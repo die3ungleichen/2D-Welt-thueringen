@@ -68,7 +68,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.kraut.world\/_\/global\/raw.githubusercontent.com\/z-Labor\/z-Labor-workadventure-map\/main\/main.json"
+                 "value":"https:\/\/play.kraut.world\/_\/global\/raw.codeberg.page\/z-labor\/z-Labor-workadventure-map\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
