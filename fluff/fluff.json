@@ -124,6 +124,11 @@
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiUrl",
+                 "type":"string",
+                 "value":"meet.weimarnetz.de\/psytent"
                 }],
          "type":"tilelayer",
          "visible":true,
