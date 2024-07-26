@@ -116,11 +116,6 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"psytent"
-                }, 
-                {
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
