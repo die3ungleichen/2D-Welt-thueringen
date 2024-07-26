@@ -138,7 +138,7 @@
                 {
                  "name":"jitsiUrl",
                  "type":"string",
-                 "value":"meet.weimarnetz.de\/psytent"
+                 "value":"meet.weimarnetz.de"
                 }],
          "type":"tilelayer",
          "visible":true,
