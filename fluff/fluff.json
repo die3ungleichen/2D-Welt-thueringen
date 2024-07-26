@@ -123,7 +123,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"meet.weimarnetz.de\/psytent"
+                 "value":"psytent"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
