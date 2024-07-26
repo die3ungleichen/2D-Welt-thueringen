@@ -57,11 +57,6 @@
                  "value":"psytent"
                 }, 
                 {
-                 "name":"jitsiRoomAdminTag",
-                 "type":"string",
-                 "value":"blaudio"
-                }, 
-                {
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
@@ -92,12 +87,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"psytent"
-                }, 
-                {
-                 "name":"jitsiRoomAdminTag",
-                 "type":"string",
-                 "value":"blaudio"
+                 "value":"mosh1"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -130,12 +120,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"psytent"
-                }, 
-                {
-                 "name":"jitsiRoomAdminTag",
-                 "type":"string",
-                 "value":"blaudio"
+                 "value":"mosh2"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -168,7 +153,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"psytent"
+                 "value":"mosh3"
                 }, 
                 {
                  "name":"jitsiTrigger",
