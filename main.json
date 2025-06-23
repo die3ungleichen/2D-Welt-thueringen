@@ -206,7 +206,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.kraut.world\/_\/global\/raw.githubusercontent.com\/ffggrz\/WorkadvNamespace\/master\/map.json"
+                 "value":"https:\/\/play.kraut.world\/_\/global\/raw.githubusercontent.com\/ffggrz\/WorkadvNamespace\/master\/map.tmj"
                 }],
          "type":"tilelayer",
          "visible":true,
